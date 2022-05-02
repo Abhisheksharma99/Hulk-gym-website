@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21684e77.chunk.css",
+    "main.js": "/static/js/main.3105121e.chunk.js",
+    "main.js.map": "/static/js/main.3105121e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adf7435c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adf7435c.js.map",
+    "static/js/2.a4404041.chunk.js": "/static/js/2.a4404041.chunk.js",
+    "static/js/2.a4404041.chunk.js.map": "/static/js/2.a4404041.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.57d81cb90904b3e4976544bd9ab9c8db.js": "/precache-manifest.57d81cb90904b3e4976544bd9ab9c8db.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.21684e77.chunk.css.map": "/static/css/main.21684e77.chunk.css.map",
+    "static/js/2.a4404041.chunk.js.LICENSE.txt": "/static/js/2.a4404041.chunk.js.LICENSE.txt",
+    "static/media/bgVideo.mp4": "/static/media/bgVideo.ae250877.mp4",
+    "static/media/gymOverlayBg.jpg": "/static/media/gymOverlayBg.f042c2ac.jpg",
+    "static/media/hulklogo.jpg": "/static/media/hulklogo.c788a70a.jpg",
+    "static/media/trainerOne.jpeg": "/static/media/trainerOne.c7293236.jpeg",
+    "static/media/trainerTwo.jpeg": "/static/media/trainerTwo.d6c38789.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf7435c.js",
+    "static/js/2.a4404041.chunk.js",
+    "static/css/main.21684e77.chunk.css",
+    "static/js/main.3105121e.chunk.js"
+  ]
+}
